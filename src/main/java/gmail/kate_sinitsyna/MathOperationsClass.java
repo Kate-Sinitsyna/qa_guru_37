@@ -47,7 +47,7 @@ public class MathOperationsClass {
 // Получить переполнение
    byte a = 127;
    byte b = 50;
-   byte c = a + b;
-  System.out.println("overflow:" + " " + c);
+   //byte c = a + b;
+ // System.out.println("overflow:" + " " + c);
     }
 }
